@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilpatil-009&label=Profile%20views&color=0e75b6&style=flat" alt="sahilpatil-009" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilpatil-009" alt="sahilpatil-009" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/_sahil_patil_" target="blank"><img src="https://img.shields.io/twitter/follow/_sahil_patil_?logo=twitter&style=for-the-badge" alt="_sahil_patil_" /></a> </p>
 
 - 🌱 I’m currently learning **React, MERN Stack**
