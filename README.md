@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Patil</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilpatil-009&label=Profile%20views&color=0e75b6&style=flat" alt="sahilpatil-009" /> </p>
+
 - 🌱 I’m currently learning **React, MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://sahilpatil-009.github.io/Portfolio-Sahil-Patil/](https://sahilpatil-009.github.io/Portfolio-Sahil-Patil/)
