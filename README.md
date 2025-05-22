@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Patil</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🌱 I’m currently learning **DevOps, MERN Stack**
+- 🌱 I’m currently learning **NEXT.js, MERN Stack, DevOps**
 
 - 👨‍💻 All of my projects are available at [https://sahilpatil-009.github.io/Portfolio-Sahil-Patil/](https://sahilpatil-009.github.io/Portfolio-Sahil-Patil/)
 
