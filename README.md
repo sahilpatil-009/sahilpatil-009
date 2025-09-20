@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sahilpatil-009.github.io/Portfolio-Sahil-Patil/](https://sahilpatil-009.github.io/Portfolio-Sahil-Patil/)
 
-- 📫 How to reach me **sahilpatil67049@gmail.com**
+- 📫 How to reach me **sahilpatil0900@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
